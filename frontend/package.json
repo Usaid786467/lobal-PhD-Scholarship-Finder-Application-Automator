@@ -1,0 +1,46 @@
+{
+  "name": "phd-application-automator-frontend",
+  "version": "1.0.0",
+  "description": "AI-Powered PhD Application Automation System - Frontend",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.0",
+    "react-scripts": "5.0.1",
+    "axios": "^1.6.2",
+    "framer-motion": "^10.16.5",
+    "recharts": "^2.10.3",
+    "react-table": "^7.8.0",
+    "react-hook-form": "^7.48.2",
+    "react-toastify": "^9.1.3",
+    "react-select": "^5.8.0",
+    "tailwindcss": "^3.3.6",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "proxy": "http://localhost:5000"
+}
