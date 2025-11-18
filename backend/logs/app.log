@@ -1,0 +1,4 @@
+2025-11-18 12:31:39 [INFO] app [logger.py:63]: Logging configured successfully
+2025-11-18 12:31:39 [INFO] app [app.py:31]: Starting PhD Application Automator...
+2025-11-18 12:31:39 [INFO] app [app.py:119]: All blueprints registered
+2025-11-18 12:31:39 [INFO] app [app.py:97]: Application initialized successfully
