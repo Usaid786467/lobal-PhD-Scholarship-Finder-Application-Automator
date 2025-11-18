@@ -1,0 +1,134 @@
+{
+  "mechanical_engineering": {
+    "name": "Mechanical Engineering",
+    "keywords": [
+      "mechanical engineering",
+      "mechanical systems",
+      "thermodynamics",
+      "fluid mechanics",
+      "solid mechanics",
+      "manufacturing",
+      "robotics",
+      "mechatronics",
+      "aerospace",
+      "automotive"
+    ],
+    "subfields": [
+      "Manufacturing",
+      "Aerospace",
+      "Robotics",
+      "Thermodynamics",
+      "Fluid Dynamics",
+      "Materials Science",
+      "Control Systems",
+      "Design Optimization"
+    ]
+  },
+  "deep_learning": {
+    "name": "Deep Learning & AI",
+    "keywords": [
+      "deep learning",
+      "neural networks",
+      "machine learning",
+      "artificial intelligence",
+      "computer vision",
+      "natural language processing",
+      "reinforcement learning",
+      "convolutional neural networks",
+      "recurrent neural networks",
+      "transformers"
+    ],
+    "subfields": [
+      "Computer Vision",
+      "NLP",
+      "Reinforcement Learning",
+      "Generative Models",
+      "Transfer Learning",
+      "Model Optimization"
+    ]
+  },
+  "manufacturing_ai": {
+    "name": "AI in Manufacturing",
+    "keywords": [
+      "smart manufacturing",
+      "industry 4.0",
+      "predictive maintenance",
+      "quality control",
+      "computer vision in manufacturing",
+      "defect detection",
+      "process optimization",
+      "digital twin",
+      "cyber-physical systems",
+      "automated inspection"
+    ],
+    "subfields": [
+      "Predictive Maintenance",
+      "Quality Inspection",
+      "Process Optimization",
+      "Digital Twin",
+      "Smart Factory",
+      "Automated Quality Control"
+    ]
+  },
+  "aerospace": {
+    "name": "Aerospace Engineering",
+    "keywords": [
+      "aerospace engineering",
+      "aerodynamics",
+      "aircraft design",
+      "propulsion",
+      "flight dynamics",
+      "space systems",
+      "composite materials",
+      "UAV",
+      "drone",
+      "satellite"
+    ],
+    "subfields": [
+      "Aerodynamics",
+      "Propulsion",
+      "Aircraft Design",
+      "Space Systems",
+      "UAV/Drones",
+      "Composite Materials"
+    ]
+  },
+  "computer_vision": {
+    "name": "Computer Vision",
+    "keywords": [
+      "computer vision",
+      "image processing",
+      "object detection",
+      "image segmentation",
+      "3D vision",
+      "visual recognition",
+      "pattern recognition",
+      "optical inspection"
+    ],
+    "subfields": [
+      "Object Detection",
+      "Segmentation",
+      "3D Vision",
+      "Visual Recognition",
+      "Image Enhancement"
+    ]
+  },
+  "optimization": {
+    "name": "Optimization & Control",
+    "keywords": [
+      "optimization",
+      "control systems",
+      "model predictive control",
+      "adaptive control",
+      "optimal control",
+      "convex optimization",
+      "multi-objective optimization"
+    ],
+    "subfields": [
+      "Model Predictive Control",
+      "Adaptive Control",
+      "Robust Control",
+      "Optimization Algorithms"
+    ]
+  }
+}

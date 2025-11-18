@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Massachusetts Institute of Technology",
+    "country": "US",
+    "website": "https://web.mit.edu",
+    "domain": "mit.edu",
+    "departments": [
+      "Mechanical Engineering",
+      "Aerospace Engineering",
+      "Computer Science"
+    ],
+    "scholarship_available": true,
+    "ranking": 1
+  },
+  {
+    "name": "Stanford University",
+    "country": "US",
+    "website": "https://www.stanford.edu",
+    "domain": "stanford.edu",
+    "departments": [
+      "Mechanical Engineering",
+      "Aeronautics and Astronautics",
+      "Computer Science"
+    ],
+    "scholarship_available": true,
+    "ranking": 2
+  },
+  {
+    "name": "University of California, Berkeley",
+    "country": "US",
+    "website": "https://www.berkeley.edu",
+    "domain": "berkeley.edu",
+    "departments": [
+      "Mechanical Engineering",
+      "Industrial Engineering"
+    ],
+    "scholarship_available": true,
+    "ranking": 4
+  },
+  {
+    "name": "Carnegie Mellon University",
+    "country": "US",
+    "website": "https://www.cmu.edu",
+    "domain": "cmu.edu",
+    "departments": [
+      "Mechanical Engineering",
+      "Robotics",
+      "Computer Science"
+    ],
+    "scholarship_available": true,
+    "ranking": 15
+  },
+  {
+    "name": "University of Toronto",
+    "country": "CA",
+    "website": "https://www.utoronto.ca",
+    "domain": "utoronto.ca",
+    "departments": [
+      "Mechanical and Industrial Engineering",
+      "Aerospace Engineering"
+    ],
+    "scholarship_available": true,
+    "ranking": 18
+  },
+  {
+    "name": "University of British Columbia",
+    "country": "CA",
+    "website": "https://www.ubc.ca",
+    "domain": "ubc.ca",
+    "departments": [
+      "Mechanical Engineering"
+    ],
+    "scholarship_available": true,
+    "ranking": 34
+  },
+  {
+    "name": "University of Oxford",
+    "country": "GB",
+    "website": "https://www.ox.ac.uk",
+    "domain": "ox.ac.uk",
+    "departments": [
+      "Engineering Science",
+      "Computer Science"
+    ],
+    "scholarship_available": true,
+    "ranking": 5
+  },
+  {
+    "name": "University of Cambridge",
+    "country": "GB",
+    "website": "https://www.cam.ac.uk",
+    "domain": "cam.ac.uk",
+    "departments": [
+      "Engineering",
+      "Computer Science"
+    ],
+    "scholarship_available": true,
+    "ranking": 3
+  },
+  {
+    "name": "Imperial College London",
+    "country": "GB",
+    "website": "https://www.imperial.ac.uk",
+    "domain": "imperial.ac.uk",
+    "departments": [
+      "Mechanical Engineering",
+      "Aeronautics"
+    ],
+    "scholarship_available": true,
+    "ranking": 6
+  },
+  {
+    "name": "ETH Zurich",
+    "country": "CH",
+    "website": "https://ethz.ch",
+    "domain": "ethz.ch",
+    "departments": [
+      "Mechanical and Process Engineering",
+      "Computer Science"
+    ],
+    "scholarship_available": true,
+    "ranking": 7
+  },
+  {
+    "name": "Technical University of Munich",
+    "country": "DE",
+    "website": "https://www.tum.de",
+    "domain": "tum.de",
+    "departments": [
+      "Mechanical Engineering",
+      "Aerospace Engineering"
+    ],
+    "scholarship_available": true,
+    "ranking": 49
+  },
+  {
+    "name": "RWTH Aachen University",
+    "country": "DE",
+    "website": "https://www.rwth-aachen.de",
+    "domain": "rwth-aachen.de",
+    "departments": [
+      "Mechanical Engineering"
+    ],
+    "scholarship_available": true,
+    "ranking": 106
+  },
+  {
+    "name": "Delft University of Technology",
+    "country": "NL",
+    "website": "https://www.tudelft.nl",
+    "domain": "tudelft.nl",
+    "departments": [
+      "Mechanical Engineering",
+      "Aerospace Engineering"
+    ],
+    "scholarship_available": true,
+    "ranking": 47
+  },
+  {
+    "name": "KTH Royal Institute of Technology",
+    "country": "SE",
+    "website": "https://www.kth.se",
+    "domain": "kth.se",
+    "departments": [
+      "Engineering Mechanics",
+      "Aerospace Engineering"
+    ],
+    "scholarship_available": true,
+    "ranking": 73
+  },
+  {
+    "name": "National University of Singapore",
+    "country": "SG",
+    "website": "https://www.nus.edu.sg",
+    "domain": "nus.edu.sg",
+    "departments": [
+      "Mechanical Engineering",
+      "Computer Science"
+    ],
+    "scholarship_available": true,
+    "ranking": 11
+  },
+  {
+    "name": "Nanyang Technological University",
+    "country": "SG",
+    "website": "https://www.ntu.edu.sg",
+    "domain": "ntu.edu.sg",
+    "departments": [
+      "Mechanical and Aerospace Engineering"
+    ],
+    "scholarship_available": true,
+    "ranking": 12
+  },
+  {
+    "name": "Tsinghua University",
+    "country": "CN",
+    "website": "https://www.tsinghua.edu.cn",
+    "domain": "tsinghua.edu.cn",
+    "departments": [
+      "Mechanical Engineering",
+      "Aerospace Engineering"
+    ],
+    "scholarship_available": true,
+    "ranking": 16
+  },
+  {
+    "name": "Peking University",
+    "country": "CN",
+    "website": "https://www.pku.edu.cn",
+    "domain": "pku.edu.cn",
+    "departments": [
+      "Engineering"
+    ],
+    "scholarship_available": true,
+    "ranking": 17
+  },
+  {
+    "name": "The Hong Kong University of Science and Technology",
+    "country": "HK",
+    "website": "https://www.ust.hk",
+    "domain": "ust.hk",
+    "departments": [
+      "Mechanical and Aerospace Engineering"
+    ],
+    "scholarship_available": true,
+    "ranking": 40
+  },
+  {
+    "name": "University of Melbourne",
+    "country": "AU",
+    "website": "https://www.unimelb.edu.au",
+    "domain": "unimelb.edu.au",
+    "departments": [
+      "Mechanical Engineering"
+    ],
+    "scholarship_available": true,
+    "ranking": 33
+  },
+  {
+    "name": "Australian National University",
+    "country": "AU",
+    "website": "https://www.anu.edu.au",
+    "domain": "anu.edu.au",
+    "departments": [
+      "Engineering"
+    ],
+    "scholarship_available": true,
+    "ranking": 30
+  },
+  {
+    "name": "University of Tokyo",
+    "country": "JP",
+    "website": "https://www.u-tokyo.ac.jp",
+    "domain": "u-tokyo.ac.jp",
+    "departments": [
+      "Mechanical Engineering",
+      "Aerospace Engineering"
+    ],
+    "scholarship_available": true,
+    "ranking": 23
+  },
+  {
+    "name": "KAIST",
+    "country": "KR",
+    "website": "https://www.kaist.ac.kr",
+    "domain": "kaist.ac.kr",
+    "departments": [
+      "Mechanical Engineering",
+      "Aerospace Engineering"
+    ],
+    "scholarship_available": true,
+    "ranking": 41
+  }
+]
